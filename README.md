@@ -2,6 +2,7 @@
 
 Название проекта | Навыки и инструменты | Описание проекта
 :-----: | :----: | :-----:
+[Поиск токсичных комментариев](https://github.com/alexsurina/study-project-toxic/blob/main/README.md) | Python, pandas, sklearn, ML, TfidfVectorizer, GridSearchCV, кросс-валидация, LightGBM, XGBoost, RandomForest, LogisticRegression, CatBoost | Работа с текстом. Построены модели для классификации комментариев на позитивные и негативные.
 [Прогнозирование заказов такси](https://github.com/alexsurina/study-project-taxi/blob/main/README.md) | Python, pandas, numpy, matplotlib, sklearn, ML, TimeSeriesSplit, GridSearchCV, кросс-валидация, CatBoost, LightGBM, XGBoost, RandomForest, LinearRegression | Временные ряды. Построены модели для прогноза количества заказов такси на следующий час.
 [Определение стоимости автомобилей](https://github.com/alexsurina/study-project-autos/blob/main/README.md) | Python, pandas, numpy, sklearn, ML, кросс-валидация, CatBoost, LightGBM, RandomForest, LinearRegression, RandomizedSearchCV, прямое кодирование (OHE), OrdinalEncoder | Построена модель для сервиса по продаже автомобилей с пробегом, предсказывающая стоимость автомобиля на основе технических характеристик.
 [Восстановление золота из руды](https://github.com/alexsurina/study-project-gold/blob/main/README.md) | Python, pandas, numpy, matplotlib, sklearn, ML, DecisionTree, RandomForest, LinearRegression, кросс-валидация | Подготовлен прототип модели для золотодобывающего предприятия, предсказывающий коэффициент восстановления золота из золотосодержащей руды.
